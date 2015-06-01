@@ -1,0 +1,39 @@
+#
+# Theme: boxtrot
+# Author: morning_star 
+#
+background	          	= white   default
+frame		              	= white		default
+window_title	         	= cyan    default	bold
+directory	              = white		default
+selected_directory     	= cyan		default	bold
+playlist	            	= white		default
+selected_playlist     	= cyan		default	dim,underline
+file		              	= white		default
+selected_file		        = cyan   	default	dim,underline
+selected_info           = red     default
+marked_file		          = cyan		default	
+marked_selected_file	  = cyan		default	underline
+marked_selected_info    = blue    default
+marked_info             = cyan    default
+info			              = cyan    default	dim
+status		             	= red	    default	bold
+title		              	= cyan		default	
+state		              	= red	  	default	bold
+current_time	         	= red     default	bold
+time_left	            	= red     default bold
+total_time	          	= red		  default	bold
+time_total_frames	      = red	  	default	bold
+sound_parameters      	= white		default	bold
+legend			            = white		default
+disabled	            	= white		default	dim
+enabled			            = white	  default	bold
+empty_mixer_bar		      = cyan	  default dim
+filled_mixer_bar      	= black		cyan
+empty_time_bar	       	= magenta	default dim
+filled_time_bar	       	= magenta	cyan    dim
+entry		              	= white		default
+entry_title	          	= magenta	default	bold
+error		              	= red	  	default	bold
+message			            = green		default	bold
+plist_time		          = cyan		default	bold
